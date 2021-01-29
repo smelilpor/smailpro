@@ -1,0 +1,2 @@
+# smailpro
+lilo
